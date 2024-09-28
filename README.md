@@ -30,12 +30,6 @@ I'm a **Computer Science and Engineering student** at **NIT Srinagar** with a st
 
 ---
 
-### 📊 GitHub Stats
-![Jaspreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSingh710&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSingh710&layout=compact&theme=radical&count_private=true)
-
----
-
 ### 🔍 Skills
 - **Programming Languages**: C, C++, Python, SQL
 - **Web Development**: HTML, CSS, JavaScript
