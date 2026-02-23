@@ -4,9 +4,8 @@
 **Areas of Expertise:** Data Structures, Algorithms, Web Development, AI, and Machine Learning  
 
 📍 **Location:** Srinagar, Jammu and Kashmir  
-📧 **Email:** [jaspreet.jt.singh@gmail.com](mailto:jaspreet.jt.singh@gmail.com)  
-🔗 **LinkedIn:** [Jaspreet Singh](https://www.linkedin.com/in/jaspreet-jt-singh/)  
-🔗 **GitHub:** [MrSingh710](https://github.com/jaspreet-jt-singh)
+📧 **Email:** [Mail me](mailto:jaspreet.jt.singh@gmail.com)  
+🔗 **LinkedIn:** [Visit my LinkedIn Profile](https://www.linkedin.com/in/jaspreet-jt-singh/)
 
 ---
 
@@ -26,12 +25,11 @@ I'm a **Computer Science and Engineering student** at **NIT Srinagar** with a st
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-Azure?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
 ### 🔍 Skills
-- **Programming Languages**: C, C++, Python, SQL
+- **Programming Languages**: C, C++, Python, SQL, Java
 - **Web Development**: HTML, CSS, JavaScript
 - **Data Science Tools**: Pandas, NumPy, Matplotlib
 - **Machine Learning**: AI Models, Neural Networks, Generative Models
@@ -53,4 +51,4 @@ I'm a **Computer Science and Engineering student** at **NIT Srinagar** with a st
 ---
 
 ### 📫 Get In Touch!
-Feel free to reach out via [email](mailto:710.jaspreet.singh@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/mrsingh710/).
+Feel free to reach out via [email](mailto:jaspreet.jt.singh@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jaspreet-jt-singh/).
