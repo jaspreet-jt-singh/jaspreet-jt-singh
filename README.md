@@ -4,9 +4,9 @@
 **Areas of Expertise:** Data Structures, Algorithms, Web Development, AI, and Machine Learning  
 
 📍 **Location:** Srinagar, Jammu and Kashmir  
-📧 **Email:** [710.jaspreet.singh@gmail.com](mailto:710.jaspreet.singh@gmail.com)  
-🔗 **LinkedIn:** [Jaspreet Singh](https://www.linkedin.com/in/mrsingh710/)  
-🔗 **GitHub:** [MrSingh710](https://github.com/MrSingh710)
+📧 **Email:** [jaspreet.jt.singh@gmail.com](mailto:jaspreet.jt.singh@gmail.com)  
+🔗 **LinkedIn:** [Jaspreet Singh](https://www.linkedin.com/in/jaspreet-jt-singh/)  
+🔗 **GitHub:** [MrSingh710](https://github.com/jaspreet-jt-singh)
 
 ---
 
